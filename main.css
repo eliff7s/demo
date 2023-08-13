@@ -1,3 +1,27 @@
 *{
     box-sizing: border-box;
 }
+body {
+      background-color: azure;
+      font-size: 36px;
+}
+h1 {
+    color: chartreuse;
+    font-size: 36px;
+}
+
+p {
+  color: lightcoral;
+  font-size: 22px;
+}
+
+button { 
+  background-color: crimson;
+  color: darkseagreen;
+  font-size: 22px;
+}
+
+#elif {
+    color: darkolivegreen;
+    font-weight: bold;
+}
